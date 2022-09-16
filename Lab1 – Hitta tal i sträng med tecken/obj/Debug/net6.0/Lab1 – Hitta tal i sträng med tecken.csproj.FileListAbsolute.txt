@@ -1,0 +1,15 @@
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\bin\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.exe
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\bin\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.deps.json
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\bin\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.runtimeconfig.json
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\bin\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.dll
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\bin\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.pdb
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.csproj.AssemblyReference.cache
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.AssemblyInfoInputs.cache
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.AssemblyInfo.cs
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.csproj.CoreCompileInputs.cache
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.dll
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\refint\Lab1 – Hitta tal i sträng med tecken.dll
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.pdb
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\Lab1 – Hitta tal i sträng med tecken.genruntimeconfig.cache
+C:\Users\abdia\source\repos\Lab1 – Hitta tal i sträng med tecken\Lab1 – Hitta tal i sträng med tecken\obj\Debug\net6.0\ref\Lab1 – Hitta tal i sträng med tecken.dll
