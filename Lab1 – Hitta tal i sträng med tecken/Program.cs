@@ -34,7 +34,7 @@ void PrintSubstringsColored(string inputString)
     {
         Console.WriteLine("The input was empty or entered just one character");
     }
-    
+
 }
 
 
@@ -46,6 +46,8 @@ substringIndexes[] FindPositionAndLengh(string inputString)
     bool isNotaNumber;
     bool startAndEndAreTheSame;
     substringIndexes[] subStrings = new substringIndexes[inputString.Length];
+
+    int[] subStringsValues = new int[inputString.Length];
     for (int i = 0; i < inputString.Length; i++)
     {
         for (int x = i + 1; x < inputString.Length; x++)
@@ -63,10 +65,22 @@ substringIndexes[] FindPositionAndLengh(string inputString)
                 length = end - start + 1;
                 subStrings[i].startIndex = start;
                 subStrings[i].length = length;
+                subStringsValues[x] = int.Parse(inputString.Substring(i, length));
                 break;
             }
         }
     }
+    Console.WriteLine($"The sum of the found values is: {SumOfNumber(subStringsValues)}");
     return subStrings;
+}
+
+int SumOfNumber(int[] numbers)
+{
+    int totalSum = 0;
+    foreach (var number in numbers)
+    {
+        totalSum += number;
+    }
+    return totalSum;
 }
 
