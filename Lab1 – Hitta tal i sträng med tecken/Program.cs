@@ -47,7 +47,7 @@ substringIndexes[] FindPositionAndLengh(string inputString)
     bool startAndEndAreTheSame;
     substringIndexes[] subStrings = new substringIndexes[inputString.Length];
 
-    int[] subStringsValues = new int[inputString.Length];
+    double[] subStringsValues = new double[inputString.Length];
     for (int i = 0; i < inputString.Length; i++)
     {
         for (int x = i + 1; x < inputString.Length; x++)
@@ -65,7 +65,7 @@ substringIndexes[] FindPositionAndLengh(string inputString)
                 length = end - start + 1;
                 subStrings[i].startIndex = start;
                 subStrings[i].length = length;
-                subStringsValues[x] = int.Parse(inputString.Substring(i, length));
+                subStringsValues[x] = double.Parse(inputString.Substring(i, length));
                 break;
             }
         }
@@ -74,9 +74,9 @@ substringIndexes[] FindPositionAndLengh(string inputString)
     return subStrings;
 }
 
-int SumOfNumber(int[] numbers)
+double SumOfNumber(double[] numbers)
 {
-    int totalSum = 0;
+    double totalSum = 0;
     foreach (var number in numbers)
     {
         totalSum += number;
